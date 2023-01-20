@@ -26,7 +26,7 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![output12](distance.jpg)
+![output12](dist.png)
 
 
 ### RESULT: Thus the difference between two points is found
